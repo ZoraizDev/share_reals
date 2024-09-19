@@ -187,4 +187,3 @@ if (!fontsLoaded && !error) {
   <img src="./assets/images/s7.jpg" alt="Scavenger hunt location selection" width="250">
   <img src="./assets/images/s8.jpg" alt="Scavenger hunt location selection" width="250">
 </p>
-#
